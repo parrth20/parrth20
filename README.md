@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Parth Bandwal
 **A 2nd-year IIIT Lucknow student passionate about technology and innovation**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Projects or Anything Else. 😊😊
+Email Me 👉 ✉️ **parthbandwal3@gmail.com** For Collaboration/Projects or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Jam UI for joinmarket
 - 🌱 **I’m currently learning:** Solana
