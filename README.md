@@ -83,3 +83,11 @@
 <p align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </p>
+
+## 🛠️ My Development Setup
+
+- 💻 OS: macOS Ventura / Sonoma
+- 🧰 Editor: VSCode, Neovim
+- 🔁 Version Control: Git, GitHub CLI
+- 🐳 Containerization: Docker
+
