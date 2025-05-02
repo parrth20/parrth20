@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I’m **Parth Bandwal**
+# 💫 Hi 👋, I’m <span style="font-size:32px"><strong>Parth Bandwal</strong></span>
 
 ### A 2nd-year IIIT Lucknow student passionate about technology and innovation  
 
@@ -14,11 +14,11 @@
 
 ### 🌍 Views & Followers 🚀
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=parrth20&label=Profile%20views&color=0e75b6&style=flat" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=parrth20" alt="Profile Views">
-  </a>  
-  <a href="https://github.com/parrth20" target="_blank">
-    <img src="https://img.shields.io/github/followers/parrth20?label=Followers&style=social" alt="GitHub Followers">
+  <a href="https://komarev.com/ghpvc/?username=parrth20&label=Profile%20views&color=0e75b6&style=flat">
+    <img src="https://komarev.com/ghpvc/?username=parrth20&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/parrth20">
+    <img src="https://img.shields.io/github/followers/parrth20?label=Followers&style=social" alt="GitHub Followers" />
   </a>
 </p>
 
@@ -30,7 +30,11 @@
 ---
 
 ## 🌐 Socials
-You can find me on [Instagram](https://instagram.com/parrth20), [LinkedIn](https://linkedin.com/in/parrth20), [X](https://x.com/parrth18), or [email me directly](mailto:parthbandwal3@gmail.com).
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parrth20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parrth20)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/parrth18)
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parthbandwal3@gmail.com)
 
 ---
 
@@ -41,7 +45,7 @@ You can find me on [Instagram](https://instagram.com/parrth20), [LinkedIn](https
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parrth20&layout=compact&theme=radical" alt="Top Languages" />
 </p>
@@ -53,7 +57,7 @@ You can find me on [Instagram](https://instagram.com/parrth20), [LinkedIn](https
 
 ## 🔥 Streaks
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parrth20&theme=radical" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=parrth20&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
@@ -66,5 +70,5 @@ You can find me on [Instagram](https://instagram.com/parrth20), [LinkedIn](https
 ---
 
 <p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
