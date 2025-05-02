@@ -70,7 +70,6 @@
 
 ---
 
-## 🐍 Snake Game Contribution Tracker
 <p align="center">
-  <img src="https://raw.githubusercontent.com/parrth20/parrth20/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/parrth20/parrth20/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
