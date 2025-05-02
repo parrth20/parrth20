@@ -3,7 +3,8 @@
 <h3 align="center">A 2nd-year IIIT Lucknow student passionate about technology and innovation</h3>
 
 
-### 📌 About Me
+
+## 📌 About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
