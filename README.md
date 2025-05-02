@@ -2,7 +2,6 @@
 
 <h3 align="center">A 2nd-year IIIT Lucknow student passionate about technology and innovation</h3>
 
----
 
 ### 📌 About Me
 
@@ -13,7 +12,6 @@
 - 📫 Reach me at: **[parthbandwal3@gmail.com](mailto:parthbandwal3@gmail.com)**  
 - ⚡ Fun fact: I enjoy **table tennis**, speak a bit of English — and **tech loves me back!**
 
----
 
 ### 🌍 Views & Followers
 <p align="center">
@@ -21,14 +19,13 @@
   <img src="https://img.shields.io/github/followers/parrth20?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
----
 
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=parrth20&theme=radical&margin-w=10&no-bg=true&no-frame=true" />
 </p>
 
----
+
 
 ## 🌐 Socials
 <h3 align="left">Connect with me:</h3>
@@ -48,14 +45,14 @@
 </p>
 
 
----
+
 
 ## 💻 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,css,html,js,ts,java,dart,latex,rust,solidity,bash,aws,gcp,angular,django,express,fastapi,ejs,flutter,flask,nextjs,nodejs,npm,react,redux,solidjs,tailwind,threejs,vite,vue,web3,webpack,yarn,firebase,mysql,postgres,prisma,figma,canva,blender,framer,github,gitlab,git,powershell" />
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -64,21 +61,20 @@
   <img src="https://github-readme-stats.vercel.app/api?username=parrth20&show_icons=true&theme=radical" />
 </p>
 
----
+
 
 ## 🔥 GitHub Streaks
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parrth20&theme=radical" alt="Streak Stats" />
 </p>
 
----
+
 
 ## 🌟 Contribution Journey
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=parrth20&theme=github-compact&radius=16&area=true" />
 </p>
 
----
 
 <p align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
