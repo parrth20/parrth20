@@ -1,4 +1,4 @@
-<h1 align="center"><strong>👋 Hi, I’m <span style="font-size:40px">Parth Bandwal</span></strong></h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Parth Bandwal</h1>
 
 <h3 align="center">A 2nd-year IIIT Lucknow student passionate about technology and innovation</h3>
 
@@ -31,12 +31,22 @@
 ---
 
 ## 🌐 Socials
-<p align="center">
-  <a href="https://instagram.com/parrth20"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/parrth20"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/parrth18"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
-  <a href="mailto:parthbandwal3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/parrth20" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/parrth20" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://x.com/parrth18" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter)" height="30" width="40" />
+  </a>
+  <a href="mailto:parthbandwal3@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
+  </a>
 </p>
+
 
 ---
 
