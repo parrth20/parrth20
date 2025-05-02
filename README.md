@@ -65,21 +65,8 @@
 
 ## 🔥 GitHub Streaks
 <p align="center">
-  <img src="https://i.imgur.com/GZHodUG.png" width="100px"/>
-  <h3 align="center">GitHub Readme Streak Stats</h3>
-</p>
-
-<p align="center">
-  Display your total contributions, current streak,<br/>
-  and longest streak on your GitHub profile README
-</p>
-
-<p align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com/demo/">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=parrth20&theme=radical&hide_border=false"/>
-  </a>
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
 
