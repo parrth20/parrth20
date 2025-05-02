@@ -71,5 +71,5 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/parrth20/parrth20/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </p>
