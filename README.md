@@ -3,14 +3,23 @@
 <h3 align="center">A 2nd-year IIIT Lucknow student passionate about technology and innovation</h3>
 
 
-### 📌 About Me
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Cool GIF" width="150" />
+    </td>
+    <td>
+      ### 📌 About Me
 
-- 🔭 I’m currently working on: **Jam UI for JoinMarket**  
-- 🌱 I’m currently learning: **Solana**  
-- 👯 I’m looking to collaborate on: **QrifyMe**  
-- 💬 Ask me about: **Collaboration, Tech Support**  
-- 📫 Reach me at: **[parthbandwal3@gmail.com](mailto:parthbandwal3@gmail.com)**  
-- ⚡ Fun fact: I enjoy **table tennis**, speak a bit of English — and **tech loves me back!**
+      - 🔭 I’m currently working on: **Jam UI for JoinMarket**  
+      - 🌱 I’m currently learning: **Solana**  
+      - 👯 I’m looking to collaborate on: **QrifyMe**  
+      - 💬 Ask me about: **Collaboration, Tech Support**  
+      - 📫 Reach me at: **[parthbandwal3@gmail.com](mailto:parthbandwal3@gmail.com)**  
+      - ⚡ Fun fact: I enjoy **table tennis**, speak a bit of English — and **tech loves me back!**
+    </td>
+  </tr>
+</table>
 
 
 ### 🌍 Views & Followers
