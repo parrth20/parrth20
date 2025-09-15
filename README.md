@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-- 🔭 I’m currently working on **Jam UI for JoinMarket**  
+- 🔭 I’m currently working on **Nyay-Saarthi**  
 - 🌱 I’m currently learning **Solana**  
 - 👯 I’m looking to collaborate on **QrifyMe**  
 - 💬 Ask me about **Collaboration, Tech Support**  
