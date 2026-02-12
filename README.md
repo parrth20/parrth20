@@ -1,97 +1,87 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Parth </h1>
+<h1 align="center">Hi, I'm Parth 👋</h1>
+<p align="center">
+  Pre-final year @ IIIT Lucknow • Builder • Open Source
+</p>
 
-<h3 align="center">A pre-final year IIIT Lucknow student passionate about technology and innovation</h3>
+<p align="center">
+  <a href="mailto:parthbandwal3@gmail.com">Email</a> ·
+  <a href="https://linkedin.com/in/parrth20" target="_blank">LinkedIn</a> ·
+  <a href="https://x.com/parrth18" target="_blank">X</a> ·
+  <a href="https://instagram.com/parrth20" target="_blank">Instagram</a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=parrth20&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/parrth20?label=Followers&style=social" alt="GitHub followers" />
+</p>
 
+---
 
 ## 📌 About Me
+- 🔭 Currently building **Nyay-Saarthi**
+- 🌱 Learning **Solana** (Rust / Anchor)
+- 👯 Open to collaborating on **QrifyMe**
+- 💬 Ask me about **collaboration, debugging, shipping**
+- 📫 Reach me: **parthbandwal3@gmail.com**
+- ⚡ Fun: I enjoy **table tennis** and love exploring new tech
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+---
 
-- 🔭 I’m currently working on **Nyay-Saarthi**  
-- 🌱 I’m currently learning **Solana**  
-- 👯 I’m looking to collaborate on **QrifyMe**  
-- 💬 Ask me about **Collaboration, Tech Support**  
-- 📫 Reach me at **[parthbandwal3@gmail.com](mailto:parthbandwal3@gmail.com)**  
-- ⚡ Fun fact: I enjoy **table tennis**, speak a bit of English — and **tech loves me back!**
+## 🧩 Featured Work
+> Replace the links below with your actual repos/URLs.
 
+- **Nyay-Saarthi** — what it does in one line  
+  Repo: `https://github.com/parrth20/<REPO_NAME>`  
+- **QrifyMe** — what it does in one line  
+  Repo: `https://github.com/parrth20/<REPO_NAME>`
 
+---
 
-### 🌍 Views & Followers
+## 💻 Tech Stack (Current Focus)
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=parrth20&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/parrth20?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,ts,js,java,rust,dart,solidity,bash,react,nextjs,nodejs,express,fastapi,flutter,tailwind,aws,gcp,firebase,mysql,postgres,prisma,docker,git,github,figma" />
 </p>
 
+<details>
+  <summary><b>More tools I’ve used</b></summary>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parrth20&theme=radical&margin-w=10&no-bg=true&no-frame=true" />
-</p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=angular,django,ejs,flask,redux,solidjs,threejs,vite,vue,web3,webpack,yarn,latex,canva,blender,framer,gitlab,powershell,npm" />
+  </p>
+</details>
 
+---
 
+## 🛠️ Development Setup
+- 💻 OS: macOS (Ventura / Sonoma)
+- 🧰 Editor: VS Code, Neovim
+- 🔁 Version control: Git + GitHub
+- 🐳 Containers: Docker
+- 🔍 PR workflow: GitLens (diff/blame/history)
+- 🤖 AI (as helper, not autopilot): GPT Premium/Codex for quick brainstorming/refactors, with manual review + testing
 
-## 🌐 Socials
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/parrth20" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/parrth20" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://x.com/parrth18" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter)" height="30" width="40" />
-  </a>
-  <a href="mailto:parthbandwal3@gmail.com" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="30" width="40" />
-  </a>
-</p>
-
-
-
-
-
-## 💻 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,css,html,js,ts,java,dart,latex,rust,solidity,bash,aws,gcp,angular,django,express,fastapi,ejs,flutter,flask,nextjs,nodejs,npm,react,redux,solidjs,tailwind,threejs,vite,vue,web3,webpack,yarn,firebase,mysql,postgres,prisma,figma,canva,blender,framer,github,gitlab,git,powershell" />
-</p>
-
-
+---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parrth20&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parrth20&layout=compact&theme=radical" alt="Top languages" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=parrth20&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=parrth20&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
-
-
-## 🔥 GitHub Streaks
 <p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/demo/">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=parrth20&theme=radical&hide_border=false"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parrth20&theme=radical" alt="GitHub streak" />
 </p>
 
-
-
-
-## 🌟 Contribution Journey
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parrth20&theme=github-compact&radius=16&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parrth20&theme=github-compact&radius=16&area=true" alt="Activity graph" />
 </p>
-
 
 <p align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </p>
 
-## 🛠️ My Development Setup
+---
 
-- 💻 OS: macOS Ventura / Sonoma
-- 🧰 Editor: VSCode, Neovim
-- 🔁 Version Control: Git, GitHub CLI
-- 🐳 Containerization: Docker
-
+## 🤝 Let’s Collaborate
+If you’re building something interesting (Web3, backend, tooling, OSS), feel free to reach out — happy to collaborate!
