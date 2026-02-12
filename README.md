@@ -15,9 +15,18 @@
   <img src="https://img.shields.io/github/followers/parrth20?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=parrth20&theme=radical&margin-w=10&no-bg=true&no-frame=true" />
+</p>
+
 ---
 
 ## 📌 About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+
+
 - 🔭 Currently building **Nyay-Saarthi**
 - 🌱 Learning **Solana** (Rust / Anchor)
 - 👯 Open to collaborating on **QrifyMe**
