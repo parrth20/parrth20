@@ -14,7 +14,7 @@
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 - 🔭 Currently contributing to **[JoinMarket WebUI (Jam)](https://github.com/JoinMarket-Org/jam)** - 55+ merged PRs in a production Bitcoin wallet
-- 🏗️ Building **Nyay-Saarthi** — an AI-powered legal document assistant for simplifying legal documents into Hindi
+- 🏗️ Building **Nyay-Saarthi** - an AI-powered legal document assistant for simplifying legal documents into Hindi
 - 🌱 Exploring **Solana (Rust / Anchor)**
 - 👯 Open to collaborating on **QrifyMe**
 - 💬 Ask me about **backend systems, debugging, collaboration, and shipping**
