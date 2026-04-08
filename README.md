@@ -15,7 +15,7 @@
 
 - 🔭 Currently contributing to **[JoinMarket WebUI (Jam)](https://github.com/joinmarket-webui)** - 55+ merged PRs in a production Bitcoin wallet
 - 🏗️ Building **Nyay-Saarthi** - an AI-powered legal document assistant for simplifying legal documents into Hindi
-- 🌱 Exploring **Solana (Rust / Anchor)**
+- 🌱 Exploring **bitCoin (Rust / Anchor)**
 - 👯 Open to collaborating on **QrifyMe**
 - 💬 Ask me about **backend systems, debugging, collaboration, and shipping**
 - 📫 Reach me at **[parthbandwal3@gmail.com](mailto:parthbandwal3@gmail.com)**
