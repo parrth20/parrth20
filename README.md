@@ -64,13 +64,13 @@
 ## 🧠 Competitive Programming
 
 <p align="left">
-  <a href="https://codeforces.com/">
+  <a href="https://codeforces.com/profile/dnrlvparth">
     <img src="https://img.shields.io/badge/Codeforces-Specialist-blue?style=for-the-badge" alt="Codeforces Specialist" />
   </a>
-  <a href="https://www.codechef.com/">
+  <a href="https://www.codechef.com/users/dinarrrr">
     <img src="https://img.shields.io/badge/CodeChef-4★-5B4638?style=for-the-badge" alt="CodeChef 4 Star" />
   </a>
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/u/dittooooo/">
     <img src="https://img.shields.io/badge/LeetCode-Knight-orange?style=for-the-badge" alt="LeetCode Knight" />
   </a>
 </p>
