@@ -1,12 +1,13 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Parth</h1>
 
-<h3 align="center">Pre-final year @IIIT Lucknow • Open Source Contributor (JoinMarket) • GenAI Builder</h3>
+<h3 align="center">Pre-final year @ IIIT Lucknow • Open Source Contributor (JoinMarket) • GenAI Builder</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=parrth20&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/parrth20?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
+---
 
 ## 📌 About Me
 
@@ -41,7 +42,38 @@
 - Built backend services with **Node.js / Express / Django**
 - Automated QR generation for smoother vendor onboarding
 
+## 📌 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/parrth20/Nyay-Saarthi">
+    <img src="https://img.shields.io/badge/Nyay--Saarthi-AI%20Legal%20Assistant-181717?style=for-the-badge&logo=github&logoColor=white" alt="Nyay-Saarthi Repository" />
+  </a>
+  <a href="https://github.com/parrth20/QrifyMe">
+    <img src="https://img.shields.io/badge/QrifyMe-QR%20Digital%20Menu-181717?style=for-the-badge&logo=github&logoColor=white" alt="QrifyMe Repository" />
+  </a>
+</p>
+
+<!-- Optional: add one more best repo here
+<p align="center">
+  <a href="https://github.com/parrth20/YOUR-THIRD-REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parrth20&repo=YOUR-THIRD-REPO&theme=dark&hide_border=true" alt="Third Repo Card" />
+  </a>
+</p>
+-->
+
 ## 🧠 Competitive Programming
+
+<p align="left">
+  <a href="https://codeforces.com/">
+    <img src="https://img.shields.io/badge/Codeforces-Specialist-blue?style=for-the-badge" alt="Codeforces Specialist" />
+  </a>
+  <a href="https://www.codechef.com/">
+    <img src="https://img.shields.io/badge/CodeChef-4★-5B4638?style=for-the-badge" alt="CodeChef 4 Star" />
+  </a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-Knight-orange?style=for-the-badge" alt="LeetCode Knight" />
+  </a>
+</p>
 
 - ⭐ **Codeforces Specialist** (Max Rating: 1557)
 - ⭐ **CodeChef 4★** (Max Rating: 1909)
@@ -58,10 +90,7 @@
 ## 📊 GitHub Overview
 
 <div align="center">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=parrth20&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=1800"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=parrth20&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
 </div>
 
 ## 🌟 Contribution Journey
@@ -73,7 +102,7 @@
 ## 🏅 Hacktoberfest 2025 Contributor
 
 <div align="center">
-  <!-- Replace this Layer5 link with your own profile/badge URL if needed -->
+  <!-- Replace this Layer5 link if this badge URL is not yours -->
   <a href="https://cloud.layer5.io/user/dfe979f6-6afb-4c6e-aa4a-bff78249c988?tab=badges&badge=hacktoberfest25">
     <img width="170" src="https://badges.layer5.io/assets/badges/hacktoberfest-contributor-2025/hacktoberfest25-badge.png" alt="Hacktoberfest 2025 Contributor" />
   </a>
@@ -99,6 +128,15 @@
     <img src="https://assets.holopin.io/hf2025levels/lvl5-astronaut.webp" width="120" alt="Hacktoberfest 2025 Level 5 / Supercontributor Badge" />
   </a>
 </p>
+
+## 🛠️ My Development Setup
+
+- 💻 OS: macOS Ventura / Sonoma
+- 🧰 Editor: VS Code (primary), Neovim
+- 🔁 Version Control: Git, GitHub CLI
+- 🔍 PR/Review: GitLens
+- 🐳 Containerization: Docker
+- 🤖 AI Helper: GPT Premium/Codex (used lightly; I review + test everything)
 
 ## 🌐 Connect with Me
 
