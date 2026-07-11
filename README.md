@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parth</h1>
 
-<h3 align="center">Pre-final year @ IIIT Lucknow • Open Source Contributor (JoinMarket) • GenAI Builder</h3>
+<h3 align="center">Open Source @ JoinMarket (Jam) • Summer of Bitcoin '26 • GenAI Builder</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=parrth20&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -23,6 +23,7 @@
 
 <br><br>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-parrth20.netlify.app-0d1117?style=for-the-badge&logo=netlify&logoColor=white)](https://parrth20.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-parrth20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parrth20)
 [![X](https://img.shields.io/badge/X-parrth18-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/parrth18)
 [![Instagram](https://img.shields.io/badge/Instagram-parrth20-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/parrth20)

@@ -49,7 +49,7 @@ ROWS = [
     ("host",),
     ("kv", "Now", "OSS @ JoinMarket — Jam Bitcoin wallet"),
     ("kv", "SoB '26", "Summer of Bitcoin @ joinmarket-webui"),
-    ("kv", "Edu", "B.Tech, IIIT Lucknow (pre-final year)"),
+    ("kv", "Edu", "B.Tech CSE, IIIT Lucknow"),
     ("gap",),
     ("sec", "Stack"),
     ("kv", "Languages", "C++, Java, Python, TypeScript"),
@@ -58,10 +58,10 @@ ROWS = [
     ("kv", "Infra", "Docker, AWS, Git — exploring Rust"),
     ("gap",),
     ("sec", "Highlights"),
-    ("bul", "55+ merged PRs in a production Bitcoin wallet"),
+    ("bul", "75+ merged PRs in a production Bitcoin wallet"),
     ("bul", "Built Nyay-Saarthi — GenAI legal assistant (Hindi)"),
-    ("bul", "CF Specialist · CC 4★ · LeetCode Knight (1874)"),
-    ("bul", "1500+ problems · 100+ contests · HF'25 Level 5"),
+    ("bul", "CF Specialist · CC 4★ · LC Knight · 1500+ solved"),
+    ("bul", "Hacktoberfest '25 Level 5 Supercontributor"),
 ]
 
 
