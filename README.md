@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm Parth</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="👋">, I'm Parth</h1>
 
-<h3 align="center">Open Source @ JoinMarket (Jam) • Summer of Bitcoin '26 • GenAI Builder</h3>
+<p align="center">
+  <a href="https://github.com/parrth20">
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&center=true&vCenter=true&width=640&height=36&color=22D3EE&background=00000000&lines=Open+Source+%40+JoinMarket+%28Jam%29;Summer+of+Bitcoin+%2726;GenAI+Builder+%E2%80%94+Nyay-Saarthi;CF+Specialist+%C2%B7+CC+4%E2%98%85+%C2%B7+LC+Knight;Hacktoberfest+%2725+Supercontributor" alt="Open Source @ JoinMarket (Jam) • Summer of Bitcoin '26 • GenAI Builder" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=parrth20&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
