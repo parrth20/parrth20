@@ -1,17 +1,17 @@
 {
   "username": "parrth20",
-  "generated_at": "2026-08-24T03:27:13Z",
+  "generated_at": "2026-08-25T03:15:16Z",
   "range": {
     "start": "2025-08-24",
-    "end": "2026-08-24"
+    "end": "2026-08-25"
   },
   "total_contributions": 767,
   "active_days": 149,
   "avg_per_active_day": 5.1,
   "current_streak": {
-    "length": 3,
-    "start": "2026-08-21",
-    "end": "2026-08-23"
+    "length": 0,
+    "start": null,
+    "end": null
   },
   "longest_streak": {
     "length": 17,
@@ -1539,6 +1539,10 @@
     },
     {
       "date": "2026-08-24",
+      "count": 0
+    },
+    {
+      "date": "2026-08-25",
       "count": 0
     }
   ]
